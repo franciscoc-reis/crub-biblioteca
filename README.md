@@ -80,4 +80,4 @@ O projeto utiliza o arquivo `.env` para garantir que informações sensíveis, c
 
 ---
 
-Desenvolvido por [Seu Nome] - [Seu LinkedIn ou GitHub]
+Desenvolvido por Francisco - https://www.linkedin.com/in/francisco-costareis/
